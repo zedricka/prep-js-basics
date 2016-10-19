@@ -89,12 +89,10 @@
 *
 * Declare a variable named `isEqual` which is a Boolean. This Boolean
 * contains the result of performing a comparison to test if two strings
-* are equal. We want to compare the two strings "Tacocat" and "tacocat" and
-* `console.log()` the result.
+* are equal. We want to compare the two strings "Tacocat" and "tacocat".
 *
 * NOTE:
-*   There is no test which tests your console.log()'s output'.
-*   Also, there are zero tests for the BONUS below.
+*   There are zero tests for the BONUS below.
 *
 * BONUS:
 *   See if you can come up with a few examples of double comparison
@@ -111,13 +109,13 @@
 * values as we assign them to show how variables in JavaScript are not bound to a single data type
 * and can change values.
 *
-* Write 5 different assignment statements and `console.log()` the value of the variable after each
-* assignment statement to show the current value.
+* Write 5 different assignment statements.
 *
 * NOTE:
 *   The tests for this section cannot test your variable as it changes,
 *   it can only test that you declared the variable by giving it the right name.
 */
+
 
 
 
@@ -130,7 +128,7 @@
 * This function should return a String, "You jumped 9 feet high!"
 * if invoked in this way -> jump(9);
 *
-* Store the return value to a variable named `jumpResult` and use console.log to inspect the value which was returned by your function
+* Store the return value to a variable named `jumpResult`
 **/
 
 
