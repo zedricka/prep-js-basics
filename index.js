@@ -24,7 +24,9 @@ var birthPlace = "Area 51";
 * Their values should be a Number
 **/
 
-
+var favoriteNumber = "420";
+var currentYear = "2016";
+var thatOnePrinceSong = "1";
 
 /**
 * #3
@@ -36,7 +38,9 @@ var birthPlace = "Area 51";
 * Their values should be a Boolean
 **/
 
-
+var isDaytime = true;
+var isLeftHanded = false;
+var inHawaii = true;
 
 /**
 * #4
@@ -47,7 +51,8 @@ var birthPlace = "Area 51";
 * Their values should be a Null value
 **/
 
-
+var enrolledAtDevLeague = NaN;
+var completedFridayPrep = NaN;
 
 /**
 * #5a
@@ -58,7 +63,7 @@ var birthPlace = "Area 51";
 * which can be found along the west coast of The United States.
 **/
 
-
+var westCoast = ["California", "Oregon", "Washington"];
 
 /**
 * #5b
@@ -69,7 +74,7 @@ var birthPlace = "Area 51";
 * Have at least ten even values in this array.
 **/
 
-
+var evenNumbers = ["2","4","6","8","10","12","14","16","18","22"];
 
 /**
 * #6a Arithmetic
@@ -82,7 +87,7 @@ var birthPlace = "Area 51";
 * Extend this behavior to include subtraction, multiplication and division.
 */
 
-
+var sumOfNumbers = (1-2*3/69);
 
 
 /**
@@ -101,7 +106,7 @@ var birthPlace = "Area 51";
 *   operator(==) vs triple comparison operator(===).
 */
 
-
+var isEqual = Tacocat == tacocat;
 
 /**
 * #6c Assignments
@@ -118,7 +123,11 @@ var birthPlace = "Area 51";
 *   it can only test that you declared the variable by giving it the right name.
 */
 
-
+var generalContainer = "astring";
+var generalContainer = "anotherstring";
+var generalContainer = 7;
+var generalContainer = true;
+var generalContainer = false;
 
 
 /**
@@ -133,7 +142,9 @@ var birthPlace = "Area 51";
 * Store the return value to a variable named `jumpResult`
 **/
 
-
+function jump (height){
+ return ("You jumped 9 feet high!");
+}
 
 /**
 * #7b
